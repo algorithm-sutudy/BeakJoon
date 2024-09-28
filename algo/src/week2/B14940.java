@@ -2,7 +2,7 @@ package week2;
 
 import java.util.*;
 
-public class Main {
+public class B14940 {
     static int[] mStart;
 
     public static void main(String[] args) {

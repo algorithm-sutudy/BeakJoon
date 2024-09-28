@@ -2,7 +2,7 @@ package week1;
 
 import java.util.*;
 
-public class Main {
+public class B11723_huipyo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Set<Integer> s = new HashSet<>();

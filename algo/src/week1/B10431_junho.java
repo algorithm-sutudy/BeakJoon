@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.Stack;
 
-public class Main {
+public class B10431_junho {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int P = Integer.parseInt(br.readLine());

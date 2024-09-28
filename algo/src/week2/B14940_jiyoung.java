@@ -4,7 +4,7 @@ import java.util.*;
 
 // 가로, 세로로만 움직일 수 있음
 
-public class Main {
+public class B14940_jiyoung {
     static int n, m; // 세로, 가로의 크기 (2 <= n, m <= 1000)
     static int[][] map;
     static int[][] result; // 최종 결과(최단 거리) 저장할 배열

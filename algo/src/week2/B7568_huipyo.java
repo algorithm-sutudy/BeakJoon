@@ -2,7 +2,7 @@ package week2;
 
 import java.util.*;
 
-public class Main {
+public class B7568_huipyo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
