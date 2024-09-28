@@ -1,3 +1,5 @@
+package week2;
+
 import java.util.*;
 
 // 가로, 세로로만 움직일 수 있음
