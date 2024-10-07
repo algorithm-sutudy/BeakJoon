@@ -10,7 +10,6 @@ public class B21921_jiyoung {
         int x = s.nextInt(); // X일 (기간)
 
         int[] visitors = new int[n]; // 방문자 수 저장하는 배열
-        int[] pVisitors = new int[n - x + 1]; // 기간 별 방문자 수 저장하는 배열
 
         int max = 0; // 최대 방문자 수 (X일 동안 가장 많이 들어온 방문자 수)
         int periodSum = 0; // 기간 합
