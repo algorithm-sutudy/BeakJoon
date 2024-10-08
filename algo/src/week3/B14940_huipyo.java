@@ -2,7 +2,7 @@ package week2;
 
 import java.util.*;
 
-public class B14940 {
+public class B14940_huipyo {
     static int[] mStart;
 
     public static void main(String[] args) {
