@@ -33,6 +33,15 @@
 - [2138] [전구와 스위치](https://www.acmicpc.net/problem/2138)
 
 </br>
+
+### 4차시 문제 (10/26)
+- [8979] [올림픽](https://www.acmicpc.net/problem/8979)
+- [25757] [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
+- [1927] [최소 힙](https://www.acmicpc.net/problem/1927)
+- [1260] [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [4485] [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+
+</br>
 </br>
 
 ### 전체 문제 리스트
