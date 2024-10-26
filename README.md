@@ -34,12 +34,21 @@
 
 </br>
 
-### 4차시 문제 (10/26)
+### 4차시 문제 (10/9)
 - [8979] [올림픽](https://www.acmicpc.net/problem/8979)
 - [25757] [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
 - [1927] [최소 힙](https://www.acmicpc.net/problem/1927)
 - [1260] [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [4485] [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+
+</br>
+
+### 5차시 문제 (10/00)
+- [1205] [등수 구하기](https://www.acmicpc.net/problem/1205)
+- [13305] [주유소](https://www.acmicpc.net/problem/13305)
+- [2607] [비슷한 단어](https://www.acmicpc.net/problem/2607)
+- [20922] [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
+- [20055] [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 
 </br>
 </br>
