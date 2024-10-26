@@ -43,7 +43,7 @@
 
 </br>
 
-### 5차시 문제 (10/00)
+### 5차시 문제 (11/9)
 - [1205] [등수 구하기](https://www.acmicpc.net/problem/1205)
 - [13305] [주유소](https://www.acmicpc.net/problem/13305)
 - [2607] [비슷한 단어](https://www.acmicpc.net/problem/2607)
