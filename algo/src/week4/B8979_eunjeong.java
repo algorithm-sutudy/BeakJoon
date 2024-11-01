@@ -1,10 +1,12 @@
+package week4;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Main {
+public class B8979_eunjeong {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
 
