@@ -40,7 +40,6 @@ public class B13549_junho {
                 return;
             }
 
-
             // 순간이동 (가중치 0)
             int teleport = currentX * 2;
             if (teleport <= max && dist[teleport] > dist[currentX]) {

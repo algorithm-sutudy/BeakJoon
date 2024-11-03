@@ -34,7 +34,7 @@ public class B21921_junho {
         maxsum = currentsum;
 
         for (int i = T; i < visitors.length; i++) {
-            currentsum = currentsum - visitors[i-T] +visitors[i];
+            currentsum = currentsum - visitors[i-T] + visitors[i];
 
             if (maxsum<currentsum){
                 maxsum = currentsum;

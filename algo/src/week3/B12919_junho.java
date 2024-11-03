@@ -23,13 +23,14 @@ public class B12919_junho {
         while (sbTarget.length() > sbStart.length()) {
             if (sbTarget.charAt(sbTarget.length()-1)=='A'){
                 sbTarget.deleteCharAt(sbTarget.length()-1);
-
-            } else if (sbTarget.charAt(sbTarget.length()-1)=='B') {
-                sbTarget.deleteCharAt(sbTarget.length()-1);
+            } else if (sbTarget.charAt(sbTarget.length() - 1) == 'B') {
+                sbTarget.deleteCharAt(sbTarget.length() - 1);
                 sbTarget.reverse();
+            } else {
+                return 0;
             }
         }
-        if (sbStart.toString().equals(sbTarget.toString())) {
+        if (sbTarget.toString().equals(sbStart)) {
             return 1;
         }else {
             return 0;
