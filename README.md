@@ -43,15 +43,19 @@
 
 </br>
 
-### 5차시 문제 (11/9)
+### 5차시 문제 (11/24)
 - [1205] [등수 구하기](https://www.acmicpc.net/problem/1205)
 - [13305] [주유소](https://www.acmicpc.net/problem/13305)
 - [2607] [비슷한 단어](https://www.acmicpc.net/problem/2607)
 - [20922] [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
 - [20055] [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+- [1244] [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
+- [17266] [어두운 굴다리](https://www.acmicpc.net/problem/17266)
+
 
 </br>
 </br>
+
 
 ### 전체 문제 리스트
 
